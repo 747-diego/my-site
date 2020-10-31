@@ -1,18 +1,20 @@
-- name: Example 1
-  url: https://github.com
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+- name: Airbnb Clone
+  url: https://github.com/747-diego/AirBnB_clone_v4
+  description: The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming.
   status: in progress
   tags:
+    - TSQL
     - JavaScript
-    - Gatsby
+    - Python
   icon: github
+  image: images/hbnbDEMO.jpeg
 
-- name: Example 2
-  url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+- name: Holberton Simple Shell
+  url: https://github.com/747-diego/simple_shell
+  description: The Simple Shell is a simple command line prompt that takes the most basics of commands that are present in the bash shell and runs them. This shell was built as a project for the Holberton School.
   status: live
   tags:
-    - JavaScript
-    - HTML
+    - C
+    - BASH
   icon: website
-  image: images/project.jpg
+  image: images/SimpleShell.png
